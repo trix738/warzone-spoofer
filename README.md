@@ -8,7 +8,3 @@ I was originally going to make a full on spoofer & cleaner for warzone but I los
 
 ## Need help?
 * Use kdmapper to map the driver.
-* Still cant figure it out? join the discord!
-
-## Links
-* [Discord](https://discord.gg/9XykzWqVMP) - GameReversalClub
